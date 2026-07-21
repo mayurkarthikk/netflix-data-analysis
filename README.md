@@ -42,6 +42,7 @@ Analyzed Netflix's 8,807-title dataset to uncover content trends and provide act
 
 - **netflix.csv**: Cleaned dataset (8,807 rows × 12 attributes) with date_added parsed as datetime
 - **netflix_data_analysis.ipynb**: Complete, well-documented analysis showing code, visualizations, and insights
+- **graphs.pdf**: Visualizations from the analysis (distribution plots, genre breakdowns, geographic maps, temporal trends)
 - **README.md**: This file—concise overview for technical and non-technical stakeholders
 
 ## How to Run
